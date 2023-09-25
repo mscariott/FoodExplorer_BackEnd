@@ -5,6 +5,9 @@ Para o acesso do projeto pode ser efetuado através de uma conta admin como os d
 login: admin@email.com
 senha: 123456
 
+login: user@email.com
+senha: 123456
+
 
 Inicialização:
 Após clonar o arquivo do github execute um npm install para baixar as depencias do projeto. O arquivo ".env.example" demonstra quais são as variaveis de depencia do projeto.
