@@ -87,7 +87,7 @@ class UsersController {
   async delete(request, response) {
 
     const {id}  = request.params
-    console.log("a")
+ 
 
     await knex("users").where({id}).delete()    
 
